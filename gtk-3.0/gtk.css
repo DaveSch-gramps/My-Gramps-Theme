@@ -9,9 +9,9 @@
 @define-color fg_color #000000;
 @define-color base_color #ffffff;
 @define-color text_color #000000;
-@define-color selected_bg_color #4895ef;
+@define-color selected_bg_color #2196f3;
 @define-color selected_fg_color #ffffff;
-@define-color tooltip_bg_color #74776b;
+@define-color tooltip_bg_color #03045e;
 @define-color tooltip_fg_color #ffffff;
 @define-color sidebar_fg_color #000000;
 @define-color sidebar_bg_color #ffffff;
@@ -92,7 +92,7 @@
 @define-color terminal_text_color @bg_color;
 
 /*Progressbar bg color*/
-@define-color progressbar_color #4361ee;
+@define-color progressbar_color shade(@selected_bg_color, 0.8);
 
 @import url("gtk-widgets.css");
 @import url("gtk-widgets-assets.css");
