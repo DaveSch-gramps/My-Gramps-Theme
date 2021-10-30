@@ -1936,16 +1936,16 @@ GtkLevelBar.vertical {
     border-radius: 6;
     border-image-repeat: stretch;
     box-shadow: none;
-    background: @theme_selected_bg_color;
+    background: @rogressbar_color;
     margin-left: 1px;
 }
 
 .scrollbar.slider:hover {
-    background-color: @theme_selected_bg_color;
+    background-color: @rogressbar_color;
 }
 
 .scrollbar.slider:active {
-    background-color: @theme_selected_bg_color;
+    background-color: @rogressbar_color;
 }
 
 .scrollbar.slider,
@@ -2380,7 +2380,7 @@ GtkSwitch.slider {
     background: linear-gradient(to bottom, rgba(252,252,252,1) 0%,
                                            rgba(235,235,235,1) 50%,
                                            rgba(221,221,221,1) 51%,
-                                           rgba(174,174,174,1) 100%); 
+                                           rgba(174,174,174,1) 100%);
 }
 /************
  * textview *
