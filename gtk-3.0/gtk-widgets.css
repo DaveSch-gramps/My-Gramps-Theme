@@ -1936,16 +1936,16 @@ GtkLevelBar.vertical {
     border-radius: 6;
     border-image-repeat: stretch;
     box-shadow: none;
-    background: @rogressbar_color;
+    background: @progressbar_color;
     margin-left: 1px;
 }
 
 .scrollbar.slider:hover {
-    background-color: @rogressbar_color;
+    background-color: @progressbar_color;
 }
 
 .scrollbar.slider:active {
-    background-color: @rogressbar_color;
+    background-color: @progressbar_color;
 }
 
 .scrollbar.slider,
