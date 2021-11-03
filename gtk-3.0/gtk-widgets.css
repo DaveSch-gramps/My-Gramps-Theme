@@ -1936,7 +1936,11 @@ GtkLevelBar.vertical {
     border-radius: 6;
     border-image-repeat: stretch;
     box-shadow: none;
-    background: @progressbar_color;
+    background: linear-gradient(to bottom,
+                                shade(@theme_selected_bg_color, 1.15),
+                                shade(@theme_selected_bg_color, 0.95),
+                                shade(@theme_selected_bg_color, 0.75)
+                                );
     margin-left: 1px;
 }
 
@@ -3628,7 +3632,7 @@ GtkProgressBar.osd.trough {
 GtkProgressBar.osd.progressbar {
     border-style: none;
     border-radius: 0;
-    background-color: @theme_selected_bg_color;
+    background-color: @progressbar_color;
     background-image: none;
 }
 
