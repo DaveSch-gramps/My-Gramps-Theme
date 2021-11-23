@@ -2194,7 +2194,6 @@ column-header .titlebar .button.titlebutton,
     padding: 0;
     background-clip: border-box;
     border-color: shade (@bg_color, 0.82);
-    border-width: 1px;
     border-style: solid;
 }
 
