@@ -2299,9 +2299,14 @@ column-header .titlebar .button.titlebutton,
     border-image-width: 0 1px;
 }
 
+.notebook tab.left:hover {
+    padding: 5px 1px 4px 6px;
+    box-shadow:inset 5px 0 #a1a1a1;
+}
+
 .notebook tab.left:active {
-    padding: 4px 1px 4px 6px;
-    box-shadow:inset 2px 0 @theme_selected_bg_color;
+    padding: 5px 1px 4px 6px;
+    box-shadow:inset 5px 0 @theme_selected_bg_color;
     background-image: none;
     background-color: @theme_base_color;
 }
