@@ -2197,6 +2197,10 @@ column-header .titlebar .button.titlebutton,
     border-style: solid;
 }
 
+.notebook.frame {
+    border-width: 1px;
+}
+
 .notebook.header {
     border-width: 0;
     background-color: @theme_bg_color;
@@ -2212,6 +2216,7 @@ column-header .titlebar .button.titlebutton,
     background-color: transparent;
     border-style: solid;
     border-color: shade(@bg_color, 0.8);
+    border-width: 1px;
     box-shadow: none;
     border-radius: 0;
     background-image: linear-gradient(to bottom,
