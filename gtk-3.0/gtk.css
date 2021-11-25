@@ -2101,10 +2101,10 @@ column-header .titlebar .button.titlebutton,
 .menu {
   margin: 4px;
   padding: 0px;
-  background-color: #ffffff;
+  background-color: #eaeaea;
   border: 1px solid #a1a1a1; }
   .csd .menu {
-    border: none; }
+    border: 2px solid #a1a1a1; }
   .menu .menuitem {
     text-shadow: none;
     padding: 4px; }
