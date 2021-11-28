@@ -2329,8 +2329,33 @@ column-header .titlebar .button.titlebutton,
     padding: 0;
 }
 
+.notebook tab .label {
+    color: #000000;
+}
+
+notebook tab .label:backdrop, .notebook tab .label.prelight-page:backdrop {
+    color: #aaabac;
+}
+
+.notebook tab .prelight-page .label, .notebook tab .label.prelight-page {
+    color: #5d6263;
+}
+
+.notebook tab .prelight-page .label:backdrop, .notebook tab .label.prelight-page:backdrop {
+    color: #aaabac;
+}
+
+.notebook tab .active-page .label, .notebook tab .label.active-page {
+    font-weight: bold;
+    color: #000000;
+}
+
+.notebook tab .active-page .label:backdrop, .notebook tab .label.active-page:backdrop {
+    color: #8d9091;
+}
+
 .notebook GtkDrawingArea {
-        background-color: shade (@bg_color, 1.02);
+    background-color: shade (@bg_color, 1.02);
 }
 
 .notebook.frame {
