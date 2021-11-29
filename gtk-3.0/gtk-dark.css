@@ -90,7 +90,7 @@
 
 .dim-label, .label.separator, GtkPlacesSidebar.sidebar .view .label.separator, .titlebar .subtitle,
 .header-bar .subtitle {
-  opacity: 0.55;
+  opacity: 0.85;
   text-shadow: none; }
 
 GtkAssistant .sidebar {
@@ -199,7 +199,7 @@ GtkTextView {
   .entry:backdrop:insensitive {
     background-color: transparent;
     background-image: linear-gradient(to bottom, #212121, #292929 90%);
-    color: #5d6767;
+    color: white;
     border-color: #1e2222;
     background-image: linear-gradient(to bottom, #323636);
     box-shadow: inset 0 3px transparent, inset 0 2px transparent, inset 0 1px transparent, 0 1px rgba(238, 238, 236, 0); }
@@ -2274,15 +2274,11 @@ column-header .titlebar .button.titlebutton,
       }
     }
     */ }
+	
     .notebook tab.top, .notebook tab.bottom {
-      padding: 8px 20px; }
+      padding: 3px 3px; }
     .notebook tab.left, .notebook tab.right {
-      padding: 5px 20px; }
-    .notebook tab.reorderable-page.top, .notebook tab.reorderable-page.bottom {
-      padding-left: 12px;
-      padding-right: 12px;
-      border-left-width: 1px;
-      border-right-width: 1px; }
+      padding: 3px 3px; }
     .notebook tab.reorderable-page.left, .notebook tab.reorderable-page.right {
       border-bottom-width: 1px;
       border-top-width: 1px; }
