@@ -2238,10 +2238,10 @@ column-header .titlebar .button.titlebutton,
     background-image: none;
 }
 
+/* size of tab*/
 .notebook tab GtkLabel {
-    /*padding: 1px;*/
-    padding: 7px 8px 7px 8px;
-}
+    padding: 3px 3px 3px 3px;
+
 
 .notebook tab {
     color: shade (@bg_color, 0.48);
@@ -2307,8 +2307,8 @@ column-header .titlebar .button.titlebutton,
 }
 
 .notebook tab.left:active {
-    padding: 5px 1px 4px 6px;
-    box-shadow:inset 5px 0 @theme_selected_bg_color;
+    padding: 5px 3px 4px 6px;
+    box-shadow:inset 5px 3px @theme_selected_bg_color;
     background-image: none;
     background-color: @theme_base_color;
 }
