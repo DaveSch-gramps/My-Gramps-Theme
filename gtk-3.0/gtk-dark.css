@@ -21,8 +21,8 @@
   -GtkDialog-button-spacing: 4;
   -GtkDialog-action-area-border: 0;
   -GtkStatusbar-shadow-type: none;
-  -GtkProgressBar-min-horizontal-bar-height: 12;
-  -GtkProgressBar-min-vertical-bar-width: 12;
+  -GtkProgressBar-min-horizontal-bar-height: 10;
+  -GtkProgressBar-min-vertical-bar-width: 10;
   outline-color: rgba(238, 238, 236, 0.3);
   outline-style: dashed;
   outline-offset: -3px;
