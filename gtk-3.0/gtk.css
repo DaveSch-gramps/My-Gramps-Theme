@@ -2240,7 +2240,7 @@ column-header .titlebar .button.titlebutton,
 
 /* size of tab*/
 .notebook tab GtkLabel {
-    padding: 3px 4px 3px 4px;
+    padding: 6px 4px 3px 4px;
 }
 
 .notebook tab {
