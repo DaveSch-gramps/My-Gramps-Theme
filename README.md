@@ -14,7 +14,7 @@ I am not a dark theme user but I have made a few changes to the Tabs in the Dark
 
 The Gramps Adwaita theme.
 
-            Gramps' Adwaita.png
+                    <img src="images\Gramps' Adwaita.png">
           
 My Gramps Theme
 
