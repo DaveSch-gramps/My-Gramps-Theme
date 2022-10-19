@@ -12,27 +12,10 @@ I am not a dark theme user but I have made a few changes to the Tabs in the Dark
 
 # An example of the changes of the Tabs
 
-The Gramps Adwaita theme.
+The Gramps Adwaita theme:
 
+https://github.com/DaveSch-gramps/My-Gramps-Theme/blob/main/images/Gramps'%20Adwaita.png
 
+My Gramps Theme:
 
-
-
-        
-            
-        
-
-    
-          
-My Gramps Theme
-
-    
-
-
-
-
-        
-            
-        
-
-    
+https://github.com/DaveSch-gramps/My-Gramps-Theme/blob/main/images/My%20Gramps%20Theme.png
