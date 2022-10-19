@@ -12,10 +12,10 @@ I am not a dark theme user but I have made a few changes to the Tabs in the Dark
 
 # An example of the changes to Tabs
 
-The Gramps Adwaita theme:
+**The Gramps Adwaita theme**:
 
 ![plot](./images/Gramps'%20Adwaita.png)
 
-My Gramps Theme:
+**My Gramps Theme**:
 
 ![plot](./images/My%20Gramps%20Theme.png)
