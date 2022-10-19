@@ -14,7 +14,7 @@ I am not a dark theme user but I have made a few changes to the Tabs in the Dark
 
 The Gramps Adwaita theme:
 
-![alt text](https://github.com/DaveSch-gramps/My-Gramps-Theme/blob/main/images/Gramps'%20Adwaita.png)
+![plot](./images/Gramps'%20Adwaita.png)
 
 My Gramps Theme:
 
