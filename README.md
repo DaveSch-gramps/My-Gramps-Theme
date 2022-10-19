@@ -10,7 +10,7 @@ See https://gramps-project.org/wiki/index.php/Addon:Themes for more information.
 
 I am not a dark theme user but I have made a few changes to the Tabs in the Dark theme. The Tabs will appear smaller than the Gramps Adwaita display theme so that the tabs in the person edit window should all be visible without scrolling.
 
-# An example of the changes of the Tabs
+# An example of the changes to Tabs
 
 The Gramps Adwaita theme:
 
