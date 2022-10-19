@@ -9,3 +9,9 @@ As a Gramps theme on a Windows system, the Gramps Themes addon must be installed
 See https://gramps-project.org/wiki/index.php/Addon:Themes for more information. Note: if the .themes folder does not already exist, create it.
 
 I am not a dark theme user but I have made a few changes to the Tabs in the Dark theme. The Tabs will appear smaller than the Gramps Adwaita display theme so that the tabs in the person edit window should all be visible without scrolling.
+
+# An example of the changes of the Tabs
+
+The Gramps Adwaita theme.
+
+
