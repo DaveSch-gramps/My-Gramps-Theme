@@ -4,7 +4,7 @@ Modified Adwaita theme that reduces the size of Tabs
 
 This Theme was modified to alter how the Gramps genealogy program displays and NOT as a basic Linux theme. As I am not a Linux user, I make no claim how the theme will work as an overall theme.
 
-As a Gramps theme on a Windows system, the Gramps Themes addon must be installed. Install the theme folder in  'C:\Users\<username>\.themes\My Gramps Themes'.
+As a Gramps theme on a Windows system, the Gramps Themes addon must be installed. Install in the theme folder at 'C:\Users\username\ .themes\My Gramps Themes'.
 
 See https://gramps-project.org/wiki/index.php/Addon:Themes for more information. Note: if the .themes folder does not already exist, create it.
 
